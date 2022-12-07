@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/Bousine/PasswordGeneratorExpReact#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "password-generator": "^2.2.3"
   }
 }
